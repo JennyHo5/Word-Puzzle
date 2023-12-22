@@ -1,0 +1,3 @@
+//let puzzle = {}
+
+let userLines = {}
